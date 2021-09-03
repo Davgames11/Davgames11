@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Davgames11
-- 👀 I’m interested in Java, C#, C++, C, Phyton
+- 👀 I’m interested in Java, C#, C++, C, Phyton, HTML
 - 🌱 I’m currently learning C#
 
 <!---
