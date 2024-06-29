@@ -1,4 +1,4 @@
-👀 Davi Iacovelli, 18 /n
+👀 Davi Iacovelli, 18
 Progamador FullStack foco em Desenvolvimento Web
 
 <!---
